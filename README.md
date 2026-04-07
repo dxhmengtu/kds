@@ -9,7 +9,7 @@
 ---
 ## 视频演示
 
-[![视频演示](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/13.jpg)](https://tv1288.xyz/0407.mp4)
+[![视频演示](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/13.png)](https://tv1288.xyz/0407.mp4)
 
 
 ## 部署方法
