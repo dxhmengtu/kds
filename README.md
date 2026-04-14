@@ -71,7 +71,7 @@ https://xxxx.workers.dev
 添加：
 👉 Custom Domain（自定义域名）
 
-
+## 【程序正常】部署完成不代表每个地方网络可以正常访问【Cloudflare搭建的程序是有网络限制】
 
 ## 使用
 
